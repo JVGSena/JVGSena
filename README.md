@@ -19,13 +19,5 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jennifer-valencia-4b262032a)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/JVGSena)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jennifervalenciasena@gmail.com)rem;">
-            <i class="fas fa-envelope" style="font-size: 2rem;"></i><br>Correo
-        </a>
-
-        <a href="https://wa.me/573150737437" target="_blank" style="text-decoration: none; color: #25d366; font-size: 1.2rem;">
-            <i class="fab fa-whatsapp" style="font-size: 2rem;"></i><br>WhatsApp
-        </a>
-
-    </div>
-</section>
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jennifervalenciasena@gmail.com)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/573150737437)
