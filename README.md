@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Jennifer Valencia 👋
 
-<!--
-**JVGSena/JVGSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Sobre mí
+- 🎓 Estudiante de 5° semestre de *Ingeniería Informática* y Tecnóloga en Desarrollo de Software.
+- 📊 *Analista de Datos* con un fuerte trasfondo en Contaduría Pública (15+ años).
+- 🚀 Apasionada por resolver problemas de negocio mediante código eficiente y análisis de datos con *Python*.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- *Lenguajes:* Python, JavaScript, SQL, Java, PHP, HTML/CSS.
+- *Bases de Datos:* SQL Server, Modelado relacional.
+- *Herramientas:* Git, GitHub, Azure, Google Colab, VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Proyectos Destacados
+- *E-CITY SAS Website:* Desarrollo Full-stack de la plataforma corporativa con enfoque responsive.
+- *Data Analysis:* Scripts en Python para optimización de reportes financieros.
