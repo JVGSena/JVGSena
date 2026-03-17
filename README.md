@@ -14,21 +14,12 @@
 - *E-CITY SAS Website:* Desarrollo Full-stack de la plataforma corporativa con enfoque responsive.
 - *Data Analysis:* Scripts en Python para optimización de reportes financieros.
 - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-<section id="contacto" style="padding: 50px; text-align: center; background-color: #f4f4f4;">
-    <h2 style="color: #333;">¡Conectemos!</h2>
-    <p>¿Tienes un proyecto en mente o buscas una Analista de Datos? Aquí están mis redes profesionales:</p>
-    
-    <div class="contact-container" style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
-        
-        <a href="https://www.linkedin.com/in/jennifer-valencia-4b262032a" target="_blank" style="text-decoration: none; color: #0077b5; font-size: 1.2rem;">
-            <i class="fab fa-linkedin" style="font-size: 2rem;"></i><br>LinkedIn
-        </a>
+## ¡Conectemos! 
+¿Tienes un proyecto en mente o buscas una Analista de Datos? Aquí están mis redes profesionales:
 
-        <a href="https://github.com/JVGSena" target="_blank" style="text-decoration: none; color: #333; font-size: 1.2rem;">
-            <i class="fab fa-github" style="font-size: 2rem;"></i><br>GitHub
-        </a>
-
-        <a href="mailto:jennifervalenciasena@gmail.com" style="text-decoration: none; color: #d44638; font-size: 1.2rem;">
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jennifer-valencia-4b262032a)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/JVGSena)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jennifervalenciasena@gmail.com)rem;">
             <i class="fas fa-envelope" style="font-size: 2rem;"></i><br>Correo
         </a>
 
