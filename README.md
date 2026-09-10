@@ -27,8 +27,8 @@
 | :--- | :--- |
 | **Lenguajes & Web** | Python, JavaScript, PHP, C#, HTML5, CSS3 |
 | **Bases de Datos & Datos** | SQL Server, SQL, Modelado relacional, Google Looker Studio, Power BI, Excel Avanzado |
-| **QA & Soporte TI** | Postman, Jira, Confluence, Troubleshooting, Windows, Linux, Active Directory, Microsoft 365 |
-| **Control & Entornos** | Git, GitHub, Azure, Google Colab, VS Code |
+| **QA & Soporte TI** | Postman, Troubleshooting, Windows, Linux, Active Directory, Microsoft 365 |
+| **Control & Entornos** | Git, GitHub, Google Colab, VS Code |
 
 ---
 
